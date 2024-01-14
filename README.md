@@ -1,5 +1,5 @@
 # ✨**FORK Awesomewm Dotfile**✨
-#[Original source](https://github.com/ChocolateBread799/dotfiles/tree/099a9a63fa4d3a105ed1e3254d31ca3264c413d7)
+# [Original source](https://github.com/ChocolateBread799/dotfiles/tree/099a9a63fa4d3a105ed1e3254d31ca3264c413d7)
 I didn't want to fork it directly because it was unrelated to main.
 if i am wrong pls contact me.
 
